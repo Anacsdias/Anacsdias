@@ -4,7 +4,7 @@
 
 * 🎲 Data Scientist
 * 📊 Data Analyst
-* 👨🏼‍🎓 Graduated in Chemical Engineering at [Una](https://www.una.br/graduacao/engenharia-quimica/).
+* 👩‍🔬 Graduated in Chemical Engineering at [Una](https://www.una.br/graduacao/engenharia-quimica/).
 
 
 ### Hard Skills 💻 
