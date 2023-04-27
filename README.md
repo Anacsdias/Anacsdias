@@ -1,4 +1,25 @@
-### Hi there 👋
+## Hi there 👋 I'm Ana Clara Dias
+
+### Who am I? 
+
+* 🎲 Data Scientist
+* 📊 Data Analyst
+* 👨🏼‍🎓 Graduated in Chemical Engineering at [Una](https://www.una.br/graduacao/engenharia-quimica/).
+
+
+### Hard Skills 💻 
+
+* 🐍 Python
+* 🔮 Machine Learning 
+* 🗄  SQL
+* 📊 Power BI
+* 📋 Excel
+
+
+### Find me too in:
+
+<div display="inline">
+<a href="https://www.linkedin.com/in/l%C3%ADvia-fornazari/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!--
 **Anacsdias/Anacsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
