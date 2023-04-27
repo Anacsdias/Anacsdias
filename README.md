@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Ana Clara Dias
+## Hi there 👋🏻 I'm Ana Clara Dias
 
 ### Who am I? 
 
