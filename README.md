@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋 I'm Ana Clara Dias
 
-<!--
-**Anacsdias/Anacsdias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+* 📊 Data Analyst
+* 🎲 Data Scientist
+* 🎓 graduated in Chemical Engineering at [UNA](https://www.una.br/graduacao/engenharia-quimica/)
 
-Here are some ideas to get you started:
+* ### Hard Skills 💻 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📊 Power BI
+* 📋 Excel
+* 🗄  SQL
+* 🐍 Python
+* 🔮 Machine Learning 
+
+### Find me too in:
+
+<div display="inline">
+<a href="https://www.linkedin.com/in/ana-clara-sdias/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+
